@@ -1,0 +1,333 @@
+Tue 03 Jul 2018 17:44:05 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:05 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:44:05 - proxy_oper - INFO - 119.7.217.38:54246judge可用，直接返回
+Tue 03 Jul 2018 17:44:06 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:06 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:44:06 - proxy_oper - INFO - 119.7.217.38:54246judge可用，直接返回
+Tue 03 Jul 2018 17:44:56 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:56 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Tue 03 Jul 2018 17:44:56 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Tue 03 Jul 2018 17:44:56 - proxy_oper - INFO - getIPFromSesame
+Tue 03 Jul 2018 17:44:57 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:57 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:44:57 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:44:58 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:58 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:44:58 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:44:58 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:44:58 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:00 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:00 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:00 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:00 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:00 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:01 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:01 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:01 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:01 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:02 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:02 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:02 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:04 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:05 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:07 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:07 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:07 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:10 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:10 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:10 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:12 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:13 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:20 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:20 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:20 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:25 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:25 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:26 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:33 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:33 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:33 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:40 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:40 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:43 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:45 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:45 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:46 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:45:54 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:54 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:55 - proxy_oper - INFO - 49.81.107.241:4243judge可用，直接返回
+Tue 03 Jul 2018 17:45:59 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:45:59 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:45:59 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:46:10 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:46:10 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:46:11 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:46:11 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:46:11 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:46:16 - proxy_oper - INFO - 182.105.201.176:4162judge可用，直接返回
+Tue 03 Jul 2018 17:48:59 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:48:59 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Tue 03 Jul 2018 17:48:59 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Tue 03 Jul 2018 17:48:59 - proxy_oper - INFO - getIPFromSesame
+Tue 03 Jul 2018 17:49:20 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:49:20 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Tue 03 Jul 2018 17:49:20 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Tue 03 Jul 2018 17:49:20 - proxy_oper - INFO - getIPFromSesame
+Tue 03 Jul 2018 17:49:20 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:50:05 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:50:05 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:50:06 - proxy_oper - ERROR - 不可用，删除171.125.109.6
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - 171.125.109.6:6996judge不可用，删除并重新获取
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - getIPFromSesame
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:50:06 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:50:07 - proxy_oper - INFO - 219.137.53.114:6897judge可用，直接返回
+Tue 03 Jul 2018 17:50:34 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Tue 03 Jul 2018 17:50:34 - proxy_oper - INFO - 判断ip是否可用
+Tue 03 Jul 2018 17:50:34 - proxy_oper - INFO - 219.137.53.114:6897judge可用，直接返回
+Tue 03 Jul 2018 17:50:34 - proxy_oper - INFO - 得到的ip为:219.137.53.114:6897
+Sat 07 Jul 2018 13:43:19 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:20 - proxy_oper - INFO - 判断ip是否可用
+Sat 07 Jul 2018 13:43:41 - proxy_oper - ERROR - 不可用，删除175.154.91.5
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - 175.154.91.5:4262judge不可用，删除并重新获取
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:41 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:41 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:41 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:42 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:42 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:42 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:42 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:43 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:43 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:43 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:43 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:44 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:44 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:44 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:44 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:45 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:45 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:45 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:45 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:46 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:46 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:46 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:46 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:47 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:47 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:47 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:47 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:48 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:48 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:48 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:48 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:49 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:49 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:49 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:49 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:50 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:50 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:50 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:50 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:51 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:51 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:51 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:51 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:52 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:52 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:52 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:52 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:53 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:53 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:53 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:53 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:54 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:54 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:54 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:54 - proxy_oper - INFO - getIPFromSesame
+Sat 07 Jul 2018 13:43:55 - proxy_oper - ERROR - 请求芝麻接口返回code不为0,错误为:您的该套餐已经过期了！
+Sat 07 Jul 2018 13:43:55 - proxy_oper - INFO - 从redis中随机获取一个可用的ip， 里面有judge等判断!
+Sat 07 Jul 2018 13:43:55 - proxy_oper - INFO - redis中没有数据，从代理服务器中拿列表并存到redis中
+Sat 07 Jul 2018 13:43:55 - proxy_oper - INFO - operIpPool,从远端获取代理数据并扔到redis
+Sat 07 Jul 2018 13:43:55 - proxy_oper - INFO - getIPFromSesame
